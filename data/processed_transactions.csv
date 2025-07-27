@@ -1,0 +1,151 @@
+transaction_id,amount,location,timestamp,merchant,category,payment_method,flagged_transaction,is_fraud
+T0001,12016.08,New York,07:19:00,Amazon,Food,credit_card,0,1
+T0002,11076.33,Seattle,00:48:00,CryptoTradeX,Shopping,debit_card,1,1
+T0003,8903.67,Los Angeles,22:06:00,Home Depot,Electronics,debit_card,0,0
+T0004,4669.51,Miami,12:26:00,Netflix,Jewelry,digital_wallet,0,0
+T0005,13003.53,Las Vegas,05:23:00,Best Buy,Investment,debit_card,0,1
+T0006,7221.73,Houston,13:50:00,Target,Transport,bank_transfer,0,0
+T0007,8938.93,Chicago,22:58:00,Best Buy,Home,credit_card,0,0
+T0008,4315.41,Dallas,00:18:00,CryptoTradeX,Home,bank_transfer,0,0
+T0009,14022.35,Boston,08:32:00,Walmart,Transfer,crypto_wallet,0,1
+T0010,13837.49,San Francisco,11:34:00,Wire Transfer,Home,crypto_wallet,1,1
+T0011,4240.96,San Francisco,20:48:00,Walmart,Home,digital_wallet,0,0
+T0012,4638.6,San Francisco,09:17:00,Apple Store,Electronics,crypto_wallet,0,0
+T0013,14632.26,Las Vegas,05:59:00,Best Buy,Transfer,debit_card,0,1
+T0014,2321.68,San Francisco,00:43:00,Amazon,Transport,debit_card,0,0
+T0015,1414.99,New York,02:52:00,Walmart,Transfer,digital_wallet,0,0
+T0016,5035.07,Houston,03:39:00,Luxury Bags Co,Transport,credit_card,1,0
+T0017,9757.58,Dallas,20:45:00,Uber,Transfer,digital_wallet,0,0
+T0018,12305.01,San Francisco,10:30:00,Best Buy,Transfer,crypto_wallet,0,1
+T0019,101.89,Chicago,18:24:00,Netflix,Electronics,digital_wallet,0,0
+T0020,6098.28,Dallas,20:14:00,Apple Store,Food,digital_wallet,0,0
+T0021,8279.4,Houston,03:39:00,Home Depot,Transport,debit_card,0,0
+T0022,8799.05,Las Vegas,22:24:00,Apple Store,Subscription,bank_transfer,0,0
+T0023,10594.65,Houston,02:24:00,Best Buy,Shopping,debit_card,0,1
+T0024,1015.93,Houston,22:42:00,Netflix,Jewelry,crypto_wallet,0,0
+T0025,5444.65,Los Angeles,13:26:00,Starbucks,Investment,crypto_wallet,0,0
+T0026,6471.64,Los Angeles,03:45:00,Walmart,Jewelry,bank_transfer,0,0
+T0027,8985.37,Miami,19:43:00,Best Buy,Electronics,digital_wallet,0,0
+T0028,9064.97,New York,22:53:00,Target,Transfer,debit_card,0,0
+T0029,3580.66,New York,07:56:00,Best Buy,Transfer,debit_card,0,0
+T0030,1278.46,Seattle,21:42:00,Target,Food,crypto_wallet,0,0
+T0031,8058.51,Dallas,10:42:00,Amazon,Investment,bank_transfer,0,0
+T0032,9328.92,Miami,05:53:00,Apple Store,Investment,debit_card,0,0
+T0033,13107.44,Boston,12:58:00,Wire Transfer,Investment,debit_card,1,1
+T0034,5168.44,Boston,04:30:00,Apple Store,Home,debit_card,0,0
+T0035,8749.95,Los Angeles,11:59:00,Best Buy,Transfer,credit_card,0,0
+T0036,11945.68,Miami,21:36:00,CryptoTradeX,Home,debit_card,1,1
+T0037,2167.54,San Francisco,16:37:00,Wire Transfer,Jewelry,bank_transfer,0,0
+T0038,12039.48,New York,04:09:00,Amazon,Transfer,crypto_wallet,0,1
+T0039,662.31,Boston,04:24:00,Uber,Home,debit_card,0,0
+T0040,884.44,New York,02:42:00,Amazon,Transfer,credit_card,0,0
+T0041,3835.42,New York,16:19:00,Apple Store,Home,digital_wallet,0,0
+T0042,1392.19,San Francisco,14:12:00,Amazon,Jewelry,crypto_wallet,0,0
+T0043,14419.11,Boston,19:21:00,Jewelry Hub,Transfer,credit_card,1,1
+T0044,1806.24,Chicago,11:01:00,Uber,Subscription,crypto_wallet,0,0
+T0045,5553.26,New York,07:57:00,CryptoTradeX,Food,bank_transfer,1,0
+T0046,5634.23,New York,12:22:00,Luxury Bags Co,Transport,crypto_wallet,1,0
+T0047,8347.83,Dallas,03:39:00,Jewelry Hub,Electronics,credit_card,1,0
+T0048,2227.21,Chicago,17:41:00,Amazon,Home,debit_card,0,0
+T0049,375.24,Las Vegas,11:46:00,Home Depot,Transport,debit_card,0,0
+T0050,11800.08,Boston,05:47:00,Target,Jewelry,bank_transfer,0,1
+T0051,8415.65,Houston,16:12:00,Netflix,Investment,bank_transfer,0,0
+T0052,13443.53,Houston,09:49:00,Starbucks,Shopping,bank_transfer,0,1
+T0053,10231.61,Boston,02:49:00,Uber,Subscription,crypto_wallet,0,1
+T0054,6462.91,Dallas,01:53:00,Apple Store,Shopping,debit_card,0,0
+T0055,12207.35,Chicago,05:08:00,Uber,Transfer,credit_card,0,1
+T0056,9767.73,Las Vegas,02:18:00,Amazon,Investment,crypto_wallet,0,0
+T0057,4829.8,Miami,01:50:00,Home Depot,Home,credit_card,0,0
+T0058,3873.14,Chicago,01:48:00,Best Buy,Transport,crypto_wallet,0,0
+T0059,13007.52,New York,11:40:00,Apple Store,Transfer,crypto_wallet,0,1
+T0060,7908.16,Boston,18:59:00,Luxury Bags Co,Food,digital_wallet,1,0
+T0061,1874.42,San Francisco,08:59:00,Apple Store,Home,bank_transfer,0,0
+T0062,11663.03,Chicago,19:12:00,Jewelry Hub,Food,credit_card,1,1
+T0063,6727.23,New York,19:28:00,Jewelry Hub,Shopping,debit_card,1,0
+T0064,3780.4,Houston,06:19:00,Home Depot,Transport,crypto_wallet,0,0
+T0065,10122.13,Las Vegas,17:18:00,Walmart,Home,debit_card,0,1
+T0066,9266.79,Las Vegas,14:23:00,Luxury Bags Co,Transport,bank_transfer,1,0
+T0067,14588.48,Boston,01:27:00,Jewelry Hub,Shopping,credit_card,1,1
+T0068,933.34,New York,17:04:00,CryptoTradeX,Transport,credit_card,0,0
+T0069,2690.14,Houston,23:35:00,Netflix,Jewelry,debit_card,0,0
+T0070,1056.19,Miami,18:00:00,Netflix,Home,credit_card,0,0
+T0071,5794.8,Las Vegas,23:50:00,Luxury Bags Co,Jewelry,crypto_wallet,1,0
+T0072,12626.05,Boston,11:08:00,Jewelry Hub,Jewelry,debit_card,1,1
+T0073,11763.08,Boston,14:49:00,Uber,Transport,bank_transfer,0,1
+T0074,9548.78,Dallas,11:35:00,Uber,Subscription,debit_card,0,0
+T0075,14413.24,Miami,11:01:00,Uber,Investment,debit_card,0,1
+T0076,1793.6,Chicago,14:28:00,Amazon,Shopping,debit_card,0,0
+T0077,2694.66,Las Vegas,02:44:00,Luxury Bags Co,Shopping,crypto_wallet,0,0
+T0078,13014.78,Miami,21:13:00,Walmart,Subscription,debit_card,0,1
+T0079,12800.84,Chicago,02:47:00,CryptoTradeX,Electronics,credit_card,1,1
+T0080,14079.8,Las Vegas,22:15:00,Luxury Bags Co,Home,crypto_wallet,1,1
+T0081,3535.01,Boston,02:25:00,CryptoTradeX,Shopping,crypto_wallet,0,0
+T0082,11645.82,New York,12:00:00,Amazon,Food,credit_card,0,1
+T0083,11151.38,Las Vegas,21:50:00,Walmart,Transport,bank_transfer,0,1
+T0084,3005.0,Seattle,20:23:00,Home Depot,Home,crypto_wallet,0,0
+T0085,8079.75,Boston,04:54:00,Target,Subscription,bank_transfer,0,0
+T0086,2532.58,Seattle,13:49:00,Starbucks,Subscription,debit_card,0,0
+T0087,7724.86,New York,11:25:00,Wire Transfer,Shopping,credit_card,1,0
+T0088,14009.92,Los Angeles,01:33:00,Uber,Electronics,digital_wallet,0,1
+T0089,5071.37,Los Angeles,08:03:00,Starbucks,Investment,crypto_wallet,0,0
+T0090,5505.49,Boston,03:03:00,Luxury Bags Co,Subscription,digital_wallet,1,0
+T0091,103.62,San Francisco,07:23:00,Starbucks,Home,crypto_wallet,0,0
+T0092,12775.95,San Francisco,13:59:00,Apple Store,Subscription,debit_card,0,1
+T0093,11993.71,Dallas,21:21:00,Uber,Subscription,debit_card,0,1
+T0094,3642.06,Miami,07:05:00,Jewelry Hub,Subscription,bank_transfer,0,0
+T0095,14154.97,Los Angeles,15:55:00,Starbucks,Shopping,debit_card,0,1
+T0096,90.37,Boston,17:37:00,Walmart,Home,debit_card,0,0
+T0097,1729.15,New York,16:44:00,Wire Transfer,Transport,credit_card,0,0
+T0098,2352.44,Chicago,11:10:00,Luxury Bags Co,Food,bank_transfer,0,0
+T0099,3055.44,Los Angeles,15:54:00,Apple Store,Transfer,debit_card,0,0
+T0100,2307.88,Miami,14:03:00,Target,Transport,debit_card,0,0
+T0101,748.87,Las Vegas,21:21:00,Wire Transfer,Food,bank_transfer,0,0
+T0102,11931.78,Houston,19:24:00,Amazon,Shopping,digital_wallet,0,1
+T0103,10141.62,Dallas,14:48:00,Starbucks,Subscription,digital_wallet,0,1
+T0104,10298.21,Los Angeles,23:48:00,Amazon,Transfer,credit_card,0,1
+T0105,934.95,New York,23:32:00,Best Buy,Investment,crypto_wallet,0,0
+T0106,13827.17,Houston,22:00:00,Luxury Bags Co,Jewelry,credit_card,1,1
+T0107,3086.24,New York,02:50:00,Jewelry Hub,Shopping,debit_card,0,0
+T0108,14636.59,Las Vegas,06:00:00,Jewelry Hub,Electronics,crypto_wallet,1,1
+T0109,10575.92,Las Vegas,14:19:00,Starbucks,Home,digital_wallet,0,1
+T0110,11426.39,New York,13:16:00,Best Buy,Jewelry,debit_card,0,1
+T0111,11541.57,New York,20:27:00,Luxury Bags Co,Food,credit_card,1,1
+T0112,4726.66,Dallas,03:00:00,Target,Jewelry,crypto_wallet,0,0
+T0113,2069.81,San Francisco,20:35:00,Jewelry Hub,Home,debit_card,0,0
+T0114,3451.38,New York,23:22:00,Amazon,Jewelry,debit_card,0,0
+T0115,6472.56,Houston,06:11:00,Walmart,Subscription,debit_card,0,0
+T0116,6872.9,Seattle,09:17:00,CryptoTradeX,Food,credit_card,1,0
+T0117,8499.96,Los Angeles,03:42:00,Walmart,Transfer,crypto_wallet,0,0
+T0118,4578.02,Los Angeles,02:14:00,Walmart,Transfer,digital_wallet,0,0
+T0119,1011.6,Los Angeles,03:34:00,Amazon,Shopping,digital_wallet,0,0
+T0120,13050.71,New York,17:08:00,Target,Subscription,debit_card,0,1
+T0121,4249.02,Los Angeles,08:26:00,Wire Transfer,Subscription,bank_transfer,0,0
+T0122,3114.95,Seattle,15:23:00,Apple Store,Transfer,credit_card,0,0
+T0123,2374.77,Houston,09:43:00,Jewelry Hub,Transfer,debit_card,0,0
+T0124,1285.57,Las Vegas,23:53:00,Home Depot,Investment,crypto_wallet,0,0
+T0125,727.58,Seattle,01:23:00,Netflix,Transfer,crypto_wallet,0,0
+T0126,6134.61,Las Vegas,11:16:00,Apple Store,Food,bank_transfer,0,0
+T0127,6950.41,Los Angeles,22:51:00,Netflix,Home,bank_transfer,0,0
+T0128,8771.6,Houston,05:27:00,Target,Shopping,bank_transfer,0,0
+T0129,7440.1,San Francisco,08:08:00,Best Buy,Home,credit_card,0,0
+T0130,14098.63,New York,19:53:00,Starbucks,Food,digital_wallet,0,1
+T0131,11577.48,New York,03:17:00,Apple Store,Subscription,credit_card,0,1
+T0132,5780.2,Los Angeles,16:09:00,Walmart,Jewelry,debit_card,0,0
+T0133,773.57,Los Angeles,10:53:00,Best Buy,Shopping,debit_card,0,0
+T0134,12014.3,Houston,22:44:00,Home Depot,Transfer,bank_transfer,0,1
+T0135,7977.02,San Francisco,22:51:00,Starbucks,Shopping,crypto_wallet,0,0
+T0136,4557.56,Boston,07:44:00,Best Buy,Transfer,crypto_wallet,0,0
+T0137,2520.9,Chicago,12:36:00,CryptoTradeX,Jewelry,digital_wallet,0,0
+T0138,12186.11,Dallas,05:18:00,Amazon,Shopping,credit_card,0,1
+T0139,13208.48,Las Vegas,02:05:00,Wire Transfer,Transfer,digital_wallet,1,1
+T0140,7181.12,Houston,10:40:00,Jewelry Hub,Investment,digital_wallet,1,0
+T0141,5354.35,San Francisco,09:39:00,Uber,Subscription,credit_card,0,0
+T0142,2562.59,Miami,10:51:00,Amazon,Home,digital_wallet,0,0
+T0143,8294.92,Las Vegas,15:15:00,Luxury Bags Co,Jewelry,digital_wallet,1,0
+T0144,9378.03,Chicago,07:58:00,Wire Transfer,Subscription,crypto_wallet,1,0
+T0145,8897.51,Seattle,07:11:00,Jewelry Hub,Transport,digital_wallet,1,0
+T0146,14603.28,San Francisco,02:27:00,Walmart,Jewelry,crypto_wallet,0,1
+T0147,8557.41,Miami,12:55:00,Jewelry Hub,Food,digital_wallet,1,0
+T0148,14906.19,San Francisco,11:24:00,Home Depot,Food,debit_card,0,1
+T0149,1658.93,New York,01:25:00,Best Buy,Home,credit_card,0,0
+T0150,7516.18,Miami,08:57:00,Netflix,Jewelry,digital_wallet,0,0
